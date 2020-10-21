@@ -1,0 +1,13 @@
+div{
+    border: 1px solid red;
+}
+body{
+    background-image: url("../photo/bg.jpg");
+    background-repeat:no-repeat;
+}
+#id001{
+    color:rebeccapurple;
+}
+.class01{
+    color: aqua;
+}
